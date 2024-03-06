@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpjMmcxdndpOHFycHZlbGV5MDcyNjd5M2RiaWM4aXJ6bGJhMGthMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tnHOwE5VlOGz9k8hW1/source.gif" width="100%" height= "50%"/>
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpjMmcxdndpOHFycHZlbGV5MDcyNjd5M2RiaWM4aXJ6bGJhMGthMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tnHOwE5VlOGz9k8hW1/source.gif" width="100%" height=50/>
 
 #### Hola soy Angel, actualmente vivo en España y me dedico a la
 ### PROGRAMACIÓN Y DESARROLLO WEB
